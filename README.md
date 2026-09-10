@@ -42,7 +42,7 @@ Raw ECG signal
 
 **Dataset:** 10-minute synthetic ECG recording, 750 heartbeats (672 Normal, 78 PVC), sampled at 250 Hz.
 
-## ⚠️ Important Limitation (read before using this in an interview)
+## ⚠️ Important Limitation 
 
 This project uses a **mathematically synthesized ECG signal**, not real clinical patient data
 (e.g., the MIT-BIH Arrhythmia Database), because the development environment used to build it
